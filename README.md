@@ -4,3 +4,6 @@ Predicts the rental price of brazilian houses.
 ## Dataset
 [Source](https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent)
 ## Contend
+ - Exploratory Data Analysis
+ - Data Cleaning
+ - Model Building
